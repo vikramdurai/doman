@@ -1,4 +1,4 @@
-# Doman
+# Doman (pronounced "do-man")
 A simple project manager for Python projects
 
 ## Install
