@@ -2,9 +2,9 @@
 A simple project manager for Python projects
 
 ## Install
-Install using `pip`:
+Install using `git`:
 ```bash
-pip install doman
+git clone https://github.com/vikramdurai/doman
 ```
 
 ## Getting Started
